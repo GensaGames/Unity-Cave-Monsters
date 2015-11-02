@@ -1,8 +1,8 @@
 <b>Tilt Monsters Unity Version </b>
 <br/><br/>
-A prototype of the game, which ultimately has not been confirmed.  <br/>
-The development of high-quality light, with unique blur shader for <br/>
-mobile devices. Includes multi-layered parallax effect background.  <br/>
+A prototype of the game, which ultimately has not been confirmed. The development of high-quality <br/>
+light, with unique blur shader for  mobile devices. Includes multi-layered parallax effect background.  <br/>
+<br/>
 On the basis of the prototype, it is easy to make games, like: <br/>
 Anoxemia Game, Nightmare Malaria, etc.  <br/>
 
