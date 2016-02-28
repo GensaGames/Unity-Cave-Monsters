@@ -8,8 +8,8 @@ Anoxemia Game, Nightmare Malaria, etc.  <br/>
 
 <br/><br/>
 
-<img src="https://github.com/GensaGamesProjects/Cave-Monsters-Unity/raw/master/screenshots/1.png" width="700" height="400"/>
+<img src="https://raw.githubusercontent.com/GensaGames/Unity-Cave-Monsters/master/screenshots/1.png" width="700" height="400"/>
 <br/><br/>
-<img src="https://github.com/GensaGamesProjects/Cave-Monsters-Unity/raw/master/screenshots/2.png" width="700" height="400"/>
+<img src="https://raw.githubusercontent.com/GensaGames/Unity-Cave-Monsters/master/screenshots/2.png" width="700" height="400"/>
 <br/><br/>
-<img src="https://github.com/GensaGamesProjects/Cave-Monsters-Unity/raw/master/screenshots/3.png" width="700" height="400"/>
+<img src="https://raw.githubusercontent.com/GensaGames/Unity-Cave-Monsters/master/screenshots/3.png" width="700" height="400"/>
